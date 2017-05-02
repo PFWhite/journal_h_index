@@ -18,6 +18,7 @@ TODO: [A](senrabc@gmail.com)20170501 Add data to sqlite db
 
 TODO: [A](senrabc@gmail.com)20170502 Figure out how to use bibliometric data 
   ontology in VIVO so you can link h_index score to each journal.
+  ref: http://www.sparontologies.net/ontologies/bido#bido_1
 
 TODO: [A](senrabc@gmail.com)20170502 @story Move all raw data into a single 
   table with the same header OR break each one into their own SQLite DB files. 
