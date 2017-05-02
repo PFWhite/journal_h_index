@@ -1,0 +1,33 @@
+
+    print get_hmm() TODO LIST: (There is always lots of stuff TODO, so just do it ;)
+
+  _  __                    _______ ____  _____   ____                      
+ | |/ /                 /\|__   __/ __ \|  __ \ / __ \                     
+ | ' / ___  ___ _ __   /  \  | | | |  | | |  | | |  | | ___ ___  _ __ ___  
+ |  < / _ \/ _ \ '_ \ / /\ \ | | | |  | | |  | | |  | |/ __/ _ \| '_ ` _ \ 
+ | . \  __/  __/ |_) / ____ \| | | |__| | |__| | |__| | (__ (_) | | | | | |
+ |_|\_\___|\___| .__/_/    \_\_|  \____/|_____/ \____(_)___\___/|_| |_| |_|
+               | |                                                         
+               |_|  
+
+Simple TODO Examples
+
+TODO: [X](senrabc@gmail.com)20170501 Get raw data from drop box
+TODO: [A](senrabc@gmail.com)20170501 Add data to sqlite db
+
+
+TODO: [A](senrabc@gmail.com)20170502 Figure out how to use bibliometric data 
+  ontology in VIVO so you can link h_index score to each journal.
+
+TODO: [A](senrabc@gmail.com)20170502 @story Move all raw data into a single 
+  table with the same header OR break each one into their own SQLite DB files. 
+  This is really only an issue surronding the 100MB file limit at github... 
+  Haven't decided what to do here. I lean towards one large file and then have 
+  a startup script that can compress and descompress it for development.
+  
+TODO: [A](senrabc@gmail.com)20170502 
+TODO: [A](senrabc@gmail.com)20170502 
+TODO: [A](senrabc@gmail.com)20170502 
+TODO: [A](senrabc@gmail.com)20170502 
+
+
